@@ -1,0 +1,17 @@
+
+.tx{
+    margin-top: 50px;
+
+}
+.t{
+margin-left: 7%;
+margin-right : 7%;
+
+text-align: justify;
+}
+.img{
+    float: right;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 5;
+}
