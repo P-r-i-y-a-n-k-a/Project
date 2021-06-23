@@ -1,0 +1,11 @@
+.al{
+    display: inline;
+    width: 22%;
+    margin-left: 3%;
+    margin-bottom: 5%;
+    height : 170px ;
+    float : left;
+}
+.mr{
+    margin-top: 60px;
+}
