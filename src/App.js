@@ -20,24 +20,9 @@ function App(){
      <Route path = "/team" exact>
        <OurTeam/>
      </Route>
-     <Route to="/mission"><OtherInfo /></Route>
-     <Route to="/vision"><OtherInfo /></Route>
-     <Route to="/values"><OtherInfo /></Route>
-     <Route to="/corporate"><OtherInfo /></Route>
-     </Switch>
      
-     {/* <Route path = "/vision" >
-       <OtherInfo />
-     </Route>
-     <Route path = "/mission" >
-       <OtherInfo />
-     </Route>
-     <Route path = "/values" >
-       <OtherInfo />
-     </Route>
-     <Route path = "/corporate" >
-       <OtherInfo />
-     </Route> */}
+     <Route><OtherInfo/></Route>
+     </Switch>
     
    {/* <Home/> */}
    {/* <AboutUs /> */}
